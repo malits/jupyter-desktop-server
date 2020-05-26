@@ -6,3 +6,10 @@ xfce4-session
 xfce4-settings
 xorg
 xubuntu-icon-theme
+gcc
+make
+libfftw3-dev
+liblapacke-dev
+libpng-dev
+libopenblas-dev
+gfortran

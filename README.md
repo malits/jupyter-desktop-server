@@ -1,5 +1,5 @@
-# Jupyter Desktop Server
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yuvipanda/jupyter-desktop-server/master?urlpath=desktop)
+# BART Desktop Server
+Launch Desktop: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/malits/jupyter-desktop-server/master?urlpath=desktop)
 
 Run XFCE (or other desktop environments) on a JupyterHub.
 
