@@ -13,3 +13,4 @@ liblapacke-dev
 libpng-dev
 libopenblas-dev
 gfortran
+libgtk-3-dev
